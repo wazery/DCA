@@ -33,7 +33,7 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [ ] [Demonstrate the usage of templates with "docker service create"](https://docs.docker.com/engine/reference/commandline/service_create/#create-services-using-templates)
 
 ### Domain 2: Image Creation, Management, and Registry (20% of exam)
-- [ ] [Describe Dockerfile options (add, copy, volumes, expose, entrypoint, etc)](https://docs.docker.com/engine/reference/builder/#from)
+- [x] [Describe Dockerfile options (add, copy, volumes, expose, entrypoint, etc)](https://docs.docker.com/engine/reference/builder/#from)
 - [ ] [Show the main parts of a Dockerfile](https://docs.docker.com/engine/reference/builder/#dockerfile-examples)
 - [ ] [Give examples on how to create an efficient image via a Dockerfile](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/)
 - [ ] [Use CLI commands such as list, delete, prune, rmi, etc to manage images](https://docs.docker.com/engine/reference/commandline/image/#usage)
