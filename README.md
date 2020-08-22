@@ -25,7 +25,7 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [x] [Increase number of replicas](https://docs.docker.com/engine/reference/commandline/service_scale/)
 - [ ] Add networks and published ports: [Network on Swarm](https://docs.docker.com/v17.09/engine/swarm/networking/) and [network in general with published ports](https://docs.docker.com/network/)
 - [ ] [Mount volumes](https://docs.docker.com/storage/volumes/)
-- [ ] [Illustrate running a replicated vs global service](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#replicated-and-global-services)
+- [x] [Illustrate running a replicated vs global service](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#replicated-and-global-services)
 - [ ] [Identify the steps needed to troubleshoot a service not deploying](https://success.docker.com/article/swarm-troubleshooting-methodology)
 - [ ] [Apply node labels to demonstrate placement of tasks](https://docs.docker.com/engine/reference/commandline/node_update/)
 - [ ] [Sketch how a Dockerized application communicates with legacy systems](https://docs.docker.com/config/containers/container-networking/)
