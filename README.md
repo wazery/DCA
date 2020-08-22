@@ -21,7 +21,7 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [x] [Interpret the output of "docker inspect" commands](https://docs.docker.com/engine/swarm/swarm-tutorial/inspect-service/)
 - [x] [Convert an application deployment into a stack file using a YAML compose file with
 "docker stack deploy"](https://docs.docker.com/engine/reference/commandline/stack_deploy/)
-- [ ] [Manipulate a running stack of services](https://docs.docker.com/engine/reference/commandline/stack_services/#related-commands)
+- [x] [Manipulate a running stack of services](https://docs.docker.com/engine/reference/commandline/stack_services/#related-commands)
 - [ ] [Increase number of replicas](https://docs.docker.com/engine/reference/commandline/service_scale/)
 - [ ] Add networks and published ports: [Network on Swarm](https://docs.docker.com/v17.09/engine/swarm/networking/) and [network in general with published ports](https://docs.docker.com/network/)
 - [ ] [Mount volumes](https://docs.docker.com/storage/volumes/)
